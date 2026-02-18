@@ -1,0 +1,3 @@
+hi my language is java
+java is oops based lang
+java is case sensitive
